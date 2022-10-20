@@ -19,3 +19,8 @@ bin-release/
 .Rproj.user
 
 *Rproj
+
+congress116-house-ids.jsonl
+congress116-senate-ids.jsonl
+representatives-115.jsonl
+senators-115.jsonl
